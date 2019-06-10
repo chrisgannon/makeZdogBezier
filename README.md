@@ -1,11 +1,13 @@
 # makeZdogBezier
 A function that accepts an array of bezier points and converts them to a structure that Zdog understands.
 
+__Usage__
+
 - Copy a single path directly from Adobe Illustrator
 - Copy just the `d` property string from the path
 - Paste into https://path2bezier.netlify.com/
 - Copy the output and pass it into `makeZdogBezier`
  
 
-Demo
+__Demo__
 https://codepen.io/chrisgannon/pen/85d369c0252013c8fa925c9af2e38c8f
